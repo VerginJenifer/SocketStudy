@@ -82,7 +82,10 @@ while True:
     s.send("Acknowledgemnt Recived".encode())
 ```
 ## Output:
-![image](https://github.com/VerginJenifer/SocketStudy/assets/136251012/5db3b17c-9803-424d-bd3a-d7b895c43da3)
+![image](https://github.com/VerginJenifer/SocketStudy/assets/136251012/8af549a6-d07d-4b18-80af-b1e3007783c8)
+
+![image](https://github.com/VerginJenifer/SocketStudy/assets/136251012/2237921b-f16b-4a99-8679-66c7c71d5c69)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
